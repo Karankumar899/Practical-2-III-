@@ -11,7 +11,7 @@ int main() {
 
     if (number % 2 == 0) {
            
-     cout << number << " is not a prime number." << endl;  
+     cout << " number is not a prime number." << endl;  
             
      return 0;
     }
